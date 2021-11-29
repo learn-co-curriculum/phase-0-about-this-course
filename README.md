@@ -12,7 +12,7 @@ writing and running code in JavaScript and Ruby. You'll be running code via a
 terminal on your computer, so we'll also go through the basics of the
 command-line interface.
 
-After this, we'll introduce Git, GitHub and the concept of version control,
+After this, we'll introduce Git, GitHub, and the concept of version control,
 essential for storing your programming work in this course and beyond.
 
 With these topics covered, we will dive into the technologies behind every
