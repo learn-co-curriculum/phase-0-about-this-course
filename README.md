@@ -4,8 +4,8 @@
 
 This is the beginning of Flatiron School's Software Engineering and Web
 Development Courses. Before we dive into the core topics of these courses, we
-need to cover some fundamental topics and make sure you are fully equipped 
-for success.
+need to cover some fundamental topics and make sure you are fully equipped for
+success.
 
 First, we need to get your computer (your _local environment_) set up for
 writing and running code in JavaScript and Ruby. You'll be running code via a
