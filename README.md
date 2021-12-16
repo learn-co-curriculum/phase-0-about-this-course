@@ -12,14 +12,14 @@ writing and running code in JavaScript and Ruby. You'll be running code via a
 terminal on your computer, so we'll also go through the basics of the
 command-line interface.
 
-After this, we'll introduce Git, GitHub, and the concept of version control,
+After this, we will dive into the technologies behind every modern website:
+HTML, CSS and JavaScript. You'll start by learning JavaScript programming
+fundamentals, followed by the basics of HTML and CSS. With these topics covered,
+you'll begin learning how to use the three technologies together to build
+websites entirely from scratch.
+
+Finally, we'll introduce Git, GitHub, and the concept of version control,
 essential for storing your programming work in this course and beyond.
 
-With these topics covered, we will dive into the technologies behind every
-modern website - HTML, CSS and JavaScript. These three are best understood in
-conjunction, so the goal is to introduce just enough of each that you will be
-able to use them together. When you can, you'll have all the skills needed to
-build a website entirely from scratch.
-
-At the end, your final task is to do just that - build and publish your own
-website!
+At the end of the prework, your final task will be to use all of your new skills
+and knowledge to build and publish your own website!
