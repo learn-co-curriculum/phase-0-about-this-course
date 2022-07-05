@@ -21,5 +21,5 @@ websites entirely from scratch.
 Finally, we'll introduce Git, GitHub, and the concept of version control,
 essential for storing your programming work in this course and beyond.
 
-At the end of the prework, your final task will be to use all of your new skills
-and knowledge to build and publish your own website!
+At the end of the Software Engineering Prep, your final task will be to use all
+of your new skills and knowledge to build and publish your own website!
